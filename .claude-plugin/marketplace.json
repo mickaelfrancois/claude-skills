@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "dotnet-essentials",
-      "source": "./plugins/dotnet-essentials",
+      "source": "dotnet-essentials",
       "description": "Essential skills for .NET/C#/Blazor development"
     }
   ]
