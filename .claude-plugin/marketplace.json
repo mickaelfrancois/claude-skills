@@ -2,8 +2,7 @@
   "name": "mickael-francois-skills",
   "description": "Personal Claude Code plugins for .NET/C#/Blazor development",
   "owner": {
-    "name": "Mickaël FRANCOIS",
-    "email": "mickael@francois.ovh"
+    "name": "Mickaël FRANCOIS"
   },
   "metadata": {
     "pluginRoot": "./plugins"
